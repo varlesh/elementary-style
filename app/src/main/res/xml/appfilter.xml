@@ -103,7 +103,7 @@
     <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.cyngn.cameranextmod/com.cyngn.cameranextmod}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.cyngn.cameranextmod/com.cyngn.cameranextmod.Camera}" drawable="com_android_camera"/>
 
     <!-- Messaging -->
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="com_android_mms"/>
@@ -112,7 +112,7 @@
     <item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="com_android_mms"/>
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="com_android_mms"/>
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="com_android_mms"/>
-    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging}" drawable="com_android_mms"/>
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ConversationList}" drawable="com_android_mms"/>
 
     <!-- Calendar -->
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" drawable="com_android_calendar" />
